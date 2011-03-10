@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>xigua.png</file>
+  </qresource>
+</RCC>
